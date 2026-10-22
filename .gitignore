@@ -1,0 +1,22 @@
+# Variáveis de ambiente (contém o ID da conta AWS)
+.env
+.env.*
+!.env.example
+
+# Credenciais AWS
+.aws/
+credentials
+
+# Jupyter / Python
+.ipynb_checkpoints/
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Sistema / editores
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/

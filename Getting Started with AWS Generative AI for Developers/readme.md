@@ -1,0 +1,1 @@
+Fonte: https://github.com/aws-samples/amazon-bedrock-samples
